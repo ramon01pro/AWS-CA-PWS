@@ -12,3 +12,4 @@ dist/
 secrets.json
 client_secret*
 packaged-*.yaml
+!ephemeral-vault/config/step-ca-root.pem
